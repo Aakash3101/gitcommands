@@ -1,0 +1,3 @@
+New file created.
+New text added.
+Amended file2.txt.
